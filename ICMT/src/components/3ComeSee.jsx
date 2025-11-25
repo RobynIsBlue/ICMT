@@ -6,7 +6,10 @@ const ComeSee = () => {
       <h1>
         <i>COME SEE US</i>
       </h1>
-      <p>We're fuckin awesome dude</p>
+      <p>
+        I will be a collapsed table where you can uncollapse me and see posters
+        for the events. I will initially show the location, time, and show name.
+      </p>
       <img src={betty} style={{ maxWidth: "200px" }} />
     </div>
   );
